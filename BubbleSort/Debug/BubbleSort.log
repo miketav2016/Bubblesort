@@ -1,0 +1,4 @@
+﻿  BubbleSort.cpp
+c:\users\tkari\source\repos\bubblesort\bubblesort.cpp(9): warning C4101: f: неиспользованная локальная переменная
+c:\users\tkari\source\repos\bubblesort\bubblesort.cpp(27): warning C4101: f: неиспользованная локальная переменная
+  BubbleSort.vcxproj -> C:\Users\tkari\source\repos\BubbleSort\Debug\BubbleSort.exe
